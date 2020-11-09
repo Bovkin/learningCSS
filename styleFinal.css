@@ -1,0 +1,27 @@
+#header {
+    width:1350px;
+    height:100px;
+    background-color: blue;
+}
+#middle{
+    width:1350px;
+    height:450px;
+    background-color:black;
+}
+#middle-left{
+    width:400px;
+    height:450px;
+    float:left;
+    background-color:gray;
+}
+#middle-right{
+    width:400px;
+    height:450px;
+    float:right;
+    background:green;
+}
+#footer{
+    width:1350px;
+    height:100px;
+    background-color: purple;
+}
